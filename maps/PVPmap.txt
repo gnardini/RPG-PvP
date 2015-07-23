@@ -1,0 +1,23 @@
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
+R                                 R
+R                                 R
+R    BBBBBB             BBBBBB    R
+R    B                       B    R
+R    B                       B    R
+R    B    BBB       BBB      B    R
+R    B    BBB       BBB      B    R
+R                                 R
+R                                 R
+R                                 R
+R                B                R
+R                                 R
+R                                 R
+R                                 R
+R    B    BBB       BBB      B    R
+R    B    BBB       BBB      B    R
+R    B                       B    R
+R    B                       B    R
+R    BBBBBB            BBBBBBB    R
+R                                 R
+R                                 R
+RRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRRR
